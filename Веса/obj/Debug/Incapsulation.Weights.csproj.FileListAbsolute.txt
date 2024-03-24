@@ -1,0 +1,10 @@
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Веса\obj\Debug\Incapsulation.Weights.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Веса\obj\Debug\Incapsulation.Weights.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Веса\bin\Debug\Incapsulation.Weights.exe.config
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Веса\bin\Debug\Incapsulation.Weights.exe
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Веса\bin\Debug\Incapsulation.Weights.pdb
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Веса\bin\Debug\nunit.framework.dll
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Веса\bin\Debug\nunitlite.dll
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Веса\obj\Debug\Incapsulation.Weights.csproj.CopyComplete
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Веса\obj\Debug\Incapsulation.Weights.exe
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Веса\obj\Debug\Incapsulation.Weights.pdb

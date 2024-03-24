@@ -1,0 +1,10 @@
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Роботы\bin\Debug\Generics.Robots.exe.config
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Роботы\bin\Debug\Generics.Robots.exe
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Роботы\bin\Debug\Generics.Robots.pdb
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Роботы\bin\Debug\nunit.framework.dll
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Роботы\bin\Debug\nunitlite.dll
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Роботы\obj\Debug\Generics.Robots.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Роботы\obj\Debug\Generics.Robots.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Роботы\obj\Debug\Generics.Robots.csproj.CopyComplete
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Роботы\obj\Debug\Generics.Robots.exe
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Роботы\obj\Debug\Generics.Robots.pdb

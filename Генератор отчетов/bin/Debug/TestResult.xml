@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="Delegates.Reports.exe" fullname="C:/Users/Daniil/Desktop/C#/ООП С#/лабы/Генератор отчетов/bin/Debug/Delegates.Reports.exe" testcasecount="4" result="Passed" start-time="2023-12-04 14:19:42Z" end-time="2023-12-04 14:19:42Z" duration="0.219142" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="4" random-seed="1801949269">
+  <command-line><![CDATA["C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Генератор отчетов\bin\Debug\Delegates.Reports.exe"   ]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1005" name="Delegates.Reports.exe" fullname="C:/Users/Daniil/Desktop/C#/ООП С#/лабы/Генератор отчетов/bin/Debug/Delegates.Reports.exe" runstate="Runnable" testcasecount="4" result="Passed" start-time="2023-12-04 14:19:42Z" end-time="2023-12-04 14:19:42Z" duration="0.219142" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="4">
+    <environment framework-version="3.6.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Генератор отчетов\bin\Debug" machine-name="DESKTOP-SU09UBG" user="Daniil" user-domain="DESKTOP-SU09UBG" culture="ru-RU" uiculture="ru-RU" os-architecture="x86" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Генератор отчетов\bin\Debug" />
+      <setting name="NumberOfTestWorkers" value="12" />
+    </settings>
+    <properties>
+      <property name="_PID" value="12592" />
+      <property name="_APPDOMAIN" value="Delegates.Reports.exe" />
+    </properties>
+    <test-suite type="TestSuite" id="1006" name="Delegates" fullname="Delegates" runstate="Runnable" testcasecount="4" result="Passed" start-time="2023-12-04 14:19:42Z" end-time="2023-12-04 14:19:42Z" duration="0.188415" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="4">
+      <test-suite type="TestSuite" id="1007" name="Reports" fullname="Delegates.Reports" runstate="Runnable" testcasecount="4" result="Passed" start-time="2023-12-04 14:19:42Z" end-time="2023-12-04 14:19:42Z" duration="0.157649" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="4">
+        <test-suite type="TestFixture" id="1000" name="ReportMaker_should" fullname="Delegates.Reports.ReportMaker_should" classname="Delegates.Reports.ReportMaker_should" runstate="Runnable" testcasecount="4" result="Passed" start-time="2023-12-04 14:19:42Z" end-time="2023-12-04 14:19:42Z" duration="0.126828" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="4">
+          <test-case id="1001" name="MeanAndStdHtml" fullname="Delegates.Reports.ReportMaker_should.MeanAndStdHtml" methodname="MeanAndStdHtml" classname="Delegates.Reports.ReportMaker_should" runstate="Runnable" seed="1051267783" result="Passed" start-time="2023-12-04 14:19:42Z" end-time="2023-12-04 14:19:42Z" duration="0.008905" asserts="1" />
+          <test-case id="1003" name="MeanAndStdMarkdown" fullname="Delegates.Reports.ReportMaker_should.MeanAndStdMarkdown" methodname="MeanAndStdMarkdown" classname="Delegates.Reports.ReportMaker_should" runstate="Runnable" seed="214069702" result="Passed" start-time="2023-12-04 14:19:42Z" end-time="2023-12-04 14:19:42Z" duration="0.000404" asserts="1">
+            <properties>
+              <property name="Description" value="Новый тест, который нужно сделать рабочим после рефакторинга" />
+            </properties>
+          </test-case>
+          <test-case id="1004" name="MedianHtml" fullname="Delegates.Reports.ReportMaker_should.MedianHtml" methodname="MedianHtml" classname="Delegates.Reports.ReportMaker_should" runstate="Runnable" seed="430275072" result="Passed" start-time="2023-12-04 14:19:42Z" end-time="2023-12-04 14:19:42Z" duration="0.002387" asserts="1">
+            <properties>
+              <property name="Description" value="Новый тест, который нужно сделать рабочим после рефакторинга" />
+            </properties>
+          </test-case>
+          <test-case id="1002" name="MedianMarkdown" fullname="Delegates.Reports.ReportMaker_should.MedianMarkdown" methodname="MedianMarkdown" classname="Delegates.Reports.ReportMaker_should" runstate="Runnable" seed="1546316386" result="Passed" start-time="2023-12-04 14:19:42Z" end-time="2023-12-04 14:19:42Z" duration="0.000197" asserts="1" />
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

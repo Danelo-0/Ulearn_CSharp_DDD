@@ -1,0 +1,10 @@
+C:\Users\Daniil\Desktop\C#\Инкапсуляция\Предприятие\bin\Debug\Incapsulation.Enterprise.dll.config
+C:\Users\Daniil\Desktop\C#\Инкапсуляция\Предприятие\bin\Debug\Incapsulation.Enterprise.dll
+C:\Users\Daniil\Desktop\C#\Инкапсуляция\Предприятие\bin\Debug\Incapsulation.Enterprise.pdb
+C:\Users\Daniil\Desktop\C#\Инкапсуляция\Предприятие\bin\Debug\nunit.framework.dll
+C:\Users\Daniil\Desktop\C#\Инкапсуляция\Предприятие\obj\Debug\Incapsulation.EnterpriseTask.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\C#\Инкапсуляция\Предприятие\obj\Debug\Incapsulation.EnterpriseTask.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\C#\Инкапсуляция\Предприятие\obj\Debug\Incapsulation.EnterpriseTask.csproj.CopyComplete
+C:\Users\Daniil\Desktop\C#\Инкапсуляция\Предприятие\obj\Debug\Incapsulation.Enterprise.dll
+C:\Users\Daniil\Desktop\C#\Инкапсуляция\Предприятие\obj\Debug\Incapsulation.Enterprise.pdb
+C:\Users\Daniil\Desktop\C#\Инкапсуляция\Предприятие\obj\Debug\Incapsulation.EnterpriseTask.csproj.SuggestedBindingRedirects.cache

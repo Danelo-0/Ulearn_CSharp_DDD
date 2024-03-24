@@ -1,0 +1,10 @@
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\HOMM\bin\Debug\Inheritance.MapObjects.exe.config
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\HOMM\bin\Debug\Inheritance.MapObjects.exe
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\HOMM\bin\Debug\Inheritance.MapObjects.pdb
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\HOMM\bin\Debug\nunit.framework.dll
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\HOMM\bin\Debug\nunitlite.dll
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\HOMM\obj\Debug\Inheritance.MapObjects.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\HOMM\obj\Debug\Inheritance.MapObjects.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\HOMM\obj\Debug\Inheritance.MapObjects.csproj.CopyComplete
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\HOMM\obj\Debug\Inheritance.MapObjects.exe
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\HOMM\obj\Debug\Inheritance.MapObjects.pdb

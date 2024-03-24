@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Reflection.Randomness.Generator&lt;T&gt;">
+    <Position X="10.25" Y="2" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAQAAAEAAAAA=</HashCode>
+      <FileName>Generator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reflection.Randomness.FromDistribution">
+    <Position X="3" Y="2" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAggAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Generator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Attribute" Collapsed="true">
+    <Position X="4.75" Y="0.75" Width="5.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.627" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

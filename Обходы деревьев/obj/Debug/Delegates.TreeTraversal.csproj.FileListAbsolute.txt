@@ -1,0 +1,10 @@
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Обходы деревьев\bin\Debug\Delegates.TreeTraversal.exe.config
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Обходы деревьев\bin\Debug\Delegates.TreeTraversal.exe
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Обходы деревьев\bin\Debug\Delegates.TreeTraversal.pdb
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Обходы деревьев\bin\Debug\nunit.framework.dll
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Обходы деревьев\bin\Debug\nunitlite.dll
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Обходы деревьев\obj\Debug\Delegates.TreeTraversal.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Обходы деревьев\obj\Debug\Delegates.TreeTraversal.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Обходы деревьев\obj\Debug\Delegates.TreeTraversal.csproj.CopyComplete
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Обходы деревьев\obj\Debug\Delegates.TreeTraversal.exe
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Обходы деревьев\obj\Debug\Delegates.TreeTraversal.pdb

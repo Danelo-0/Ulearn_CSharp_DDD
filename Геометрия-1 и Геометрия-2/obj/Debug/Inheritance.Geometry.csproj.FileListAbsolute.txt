@@ -1,0 +1,20 @@
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Геометрия-1\bin\Debug\Inheritance.Geometry.exe.config
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Геометрия-1\bin\Debug\Inheritance.Geometry.exe
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Геометрия-1\bin\Debug\Inheritance.Geometry.pdb
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Геометрия-1\bin\Debug\nunit.framework.dll
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Геометрия-1\bin\Debug\nunitlite.dll
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Геометрия-1\obj\Debug\Inheritance.Geometry.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Геометрия-1\obj\Debug\Inheritance.Geometry.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Геометрия-1\obj\Debug\Inheritance.Geometry.csproj.CopyComplete
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Геометрия-1\obj\Debug\Inheritance.Geometry.exe
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Геометрия-1\obj\Debug\Inheritance.Geometry.pdb
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Геометрия-1 и Геометрия-2\bin\Debug\Inheritance.Geometry.exe.config
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Геометрия-1 и Геометрия-2\bin\Debug\Inheritance.Geometry.exe
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Геометрия-1 и Геометрия-2\bin\Debug\Inheritance.Geometry.pdb
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Геометрия-1 и Геометрия-2\bin\Debug\nunit.framework.dll
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Геометрия-1 и Геометрия-2\bin\Debug\nunitlite.dll
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Геометрия-1 и Геометрия-2\obj\Debug\Inheritance.Geometry.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Геометрия-1 и Геометрия-2\obj\Debug\Inheritance.Geometry.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Геометрия-1 и Геометрия-2\obj\Debug\Inheritance.Geometry.csproj.CopyComplete
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Геометрия-1 и Геометрия-2\obj\Debug\Inheritance.Geometry.exe
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Геометрия-1 и Геометрия-2\obj\Debug\Inheritance.Geometry.pdb

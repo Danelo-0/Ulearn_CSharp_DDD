@@ -1,0 +1,10 @@
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Анализ пар\bin\Debug\Delegates.PairsAnalysis.exe.config
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Анализ пар\bin\Debug\Delegates.PairsAnalysis.exe
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Анализ пар\bin\Debug\Delegates.PairsAnalysis.pdb
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Анализ пар\bin\Debug\nunit.framework.dll
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Анализ пар\bin\Debug\nunitlite.dll
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Анализ пар\obj\Debug\Delegates.PairsAnalysis.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Анализ пар\obj\Debug\Delegates.PairsAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Анализ пар\obj\Debug\Delegates.PairsAnalysis.csproj.CopyComplete
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Анализ пар\obj\Debug\Delegates.PairsAnalysis.exe
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Анализ пар\obj\Debug\Delegates.PairsAnalysis.pdb

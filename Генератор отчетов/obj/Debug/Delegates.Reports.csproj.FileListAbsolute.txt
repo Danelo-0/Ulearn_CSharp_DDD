@@ -1,0 +1,10 @@
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Генератор отчетов\bin\Debug\Delegates.Reports.exe.config
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Генератор отчетов\bin\Debug\Delegates.Reports.exe
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Генератор отчетов\bin\Debug\Delegates.Reports.pdb
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Генератор отчетов\bin\Debug\nunit.framework.dll
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Генератор отчетов\bin\Debug\nunitlite.dll
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Генератор отчетов\obj\Debug\Delegates.Reports.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Генератор отчетов\obj\Debug\Delegates.Reports.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Генератор отчетов\obj\Debug\Delegates.Reports.csproj.CopyComplete
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Генератор отчетов\obj\Debug\Delegates.Reports.exe
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Генератор отчетов\obj\Debug\Delegates.Reports.pdb

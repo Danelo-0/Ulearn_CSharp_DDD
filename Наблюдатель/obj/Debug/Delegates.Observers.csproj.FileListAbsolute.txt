@@ -1,0 +1,10 @@
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Наблюдатель\bin\Debug\Delegates.Observers.exe.config
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Наблюдатель\bin\Debug\Delegates.Observers.exe
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Наблюдатель\bin\Debug\Delegates.Observers.pdb
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Наблюдатель\bin\Debug\nunit.framework.dll
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Наблюдатель\bin\Debug\nunitlite.dll
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Наблюдатель\obj\Debug\Delegates.Observers.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Наблюдатель\obj\Debug\Delegates.Observers.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Наблюдатель\obj\Debug\Delegates.Observers.csproj.CopyComplete
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Наблюдатель\obj\Debug\Delegates.Observers.exe
+C:\Users\Daniil\Desktop\C#\ООП С#\лабы\Наблюдатель\obj\Debug\Delegates.Observers.pdb

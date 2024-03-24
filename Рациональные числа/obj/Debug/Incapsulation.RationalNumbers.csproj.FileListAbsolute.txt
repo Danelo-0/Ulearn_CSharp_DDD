@@ -1,0 +1,10 @@
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Рациональные числа\obj\Debug\Incapsulation.RationalNumbers.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Рациональные числа\obj\Debug\Incapsulation.RationalNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Рациональные числа\bin\Debug\Incapsulation.RationalNumbers.exe.config
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Рациональные числа\bin\Debug\Incapsulation.RationalNumbers.exe
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Рациональные числа\bin\Debug\Incapsulation.RationalNumbers.pdb
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Рациональные числа\bin\Debug\nunit.framework.dll
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Рациональные числа\bin\Debug\nunitlite.dll
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Рациональные числа\obj\Debug\Incapsulation.RationalNumbers.csproj.CopyComplete
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Рациональные числа\obj\Debug\Incapsulation.RationalNumbers.exe
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Рациональные числа\obj\Debug\Incapsulation.RationalNumbers.pdb

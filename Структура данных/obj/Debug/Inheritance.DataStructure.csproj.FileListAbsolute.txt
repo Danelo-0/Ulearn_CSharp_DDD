@@ -1,0 +1,10 @@
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Структура данных\bin\Debug\Inheritance.DataStructure.exe.config
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Структура данных\bin\Debug\Inheritance.DataStructure.exe
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Структура данных\bin\Debug\Inheritance.DataStructure.pdb
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Структура данных\bin\Debug\nunit.framework.dll
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Структура данных\bin\Debug\nunitlite.dll
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Структура данных\obj\Debug\Inheritance.DataStructure.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Структура данных\obj\Debug\Inheritance.DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Структура данных\obj\Debug\Inheritance.DataStructure.csproj.CopyComplete
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Структура данных\obj\Debug\Inheritance.DataStructure.exe
+C:\Users\Daniil\Desktop\C#\ООП С#\Инкапсуляция\Структура данных\obj\Debug\Inheritance.DataStructure.pdb
